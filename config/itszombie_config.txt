@@ -1,0 +1,1 @@
+disabled|dice,points,editpoints,create,commands,mods,admins,say,raw,roulette,disable,enable
